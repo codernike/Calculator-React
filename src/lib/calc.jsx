@@ -66,7 +66,7 @@ function App() {
   }
 
   return (
-    <div className="container">
+    <div className="container mb-5">
       <div className="desc">
         <h1>React Calculator</h1>
         <p>Copyright 2022 by Calculator.com</p>

@@ -9,7 +9,7 @@ export default function App() {
   
   <Navbar/>
   <div ></div>
-  <div class="container">
+  <div class="container ">
  <Calc/>
   </div>
   <Footer/>
